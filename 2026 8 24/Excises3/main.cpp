@@ -16,7 +16,7 @@ int main(void)
 	{
 		int M = i + 1;
 		cout << pNumber[M] << endl;
-		if (Max < pNumber[M])
+		if (Max < *(pNumber+M))
 		{
 			Max = pNumber[M];
 		}
