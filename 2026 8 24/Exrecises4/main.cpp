@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
 
+void Multiplication(int* pNumber, int num);
+
 int main(void)
 {
 	int number[5] = { 10,20,30,40,50 };
@@ -19,6 +21,12 @@ int main(void)
 		cout << *(pNumber + i) << endl;
 	}
 
+	Multiplication(pNumber,num);
+	
+}
+
+void Multiplication(int *pNumber, int num)
+{
 	cout << "•ÏXŒê\n";
 	for (int i = 0; i < 5; i++)
 	{
