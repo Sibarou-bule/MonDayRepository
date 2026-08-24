@@ -21,6 +21,6 @@ int main(void)
 			Max = pNumber[M];
 		}
 	}
-	cout << "ã‚Ì”š‚Ì’†‚Å‚ÌÅ‘å’l‚Í\n";
+	cout << "Å‘å’l:";
 	cout << Max << "‚Å‚·\n";
 }
