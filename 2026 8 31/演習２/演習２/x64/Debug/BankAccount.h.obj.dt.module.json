@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "演習２\\x64\\Debug\\BankAccount.obj",
+            "outputs": [
+                "演習２\\x64\\Debug\\BankAccount.h.obj.dt.module.json",
+                "演習２\\x64\\Debug\\BankAccount.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

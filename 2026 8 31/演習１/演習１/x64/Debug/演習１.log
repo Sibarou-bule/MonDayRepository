@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\student\Desktop\MonDayRepository\2026 8 31\演習１\VendingManchine.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'main.cpp' をコンパイルしています)
+  
+  VendingManchine.cpp
+C:\Users\student\Desktop\MonDayRepository\2026 8 31\演習１\VendingManchine.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  (ソース ファイル 'VendingManchine.cpp' をコンパイルしています)
+  
+  コードを生成中...
+  演習１.vcxproj -> C:\Users\student\Desktop\MonDayRepository\2026 8 31\演習１\x64\Debug\演習１.exe

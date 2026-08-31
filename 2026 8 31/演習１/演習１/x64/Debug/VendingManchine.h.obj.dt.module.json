@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "演習１\\x64\\Debug\\VendingManchine.obj",
+            "outputs": [
+                "演習１\\x64\\Debug\\VendingManchine.h.obj.dt.module.json",
+                "演習１\\x64\\Debug\\VendingManchine.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
