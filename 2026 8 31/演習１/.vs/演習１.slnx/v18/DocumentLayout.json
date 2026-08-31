@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{7FC0CF8D-A49F-4E4B-9CBD-FDBA7F422179}|\u6F14\u7FD2\uFF11.vcxproj|solutionrelative:VendingManchine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7FC0CF8D-A49F-4E4B-9CBD-FDBA7F422179}|\u6F14\u7FD2\uFF11.vcxproj|C:\\Users\\student\\Desktop\\MonDayRepository\\2026 8 31\\\u6F14\u7FD2\uFF11\\VendingManchine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7FC0CF8D-A49F-4E4B-9CBD-FDBA7F422179}|\u6F14\u7FD2\uFF11.vcxproj|solutionrelative:VendingManchine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7FC0CF8D-A49F-4E4B-9CBD-FDBA7F422179}|\u6F14\u7FD2\uFF11.vcxproj|C:\\Users\\student\\Desktop\\MonDayRepository\\2026 8 31\\\u6F14\u7FD2\uFF11\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7FC0CF8D-A49F-4E4B-9CBD-FDBA7F422179}|\u6F14\u7FD2\uFF11.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC0CF8D-A49F-4E4B-9CBD-FDBA7F422179}|\u6F14\u7FD2\uFF11.vcxproj|C:\\Users\\student\\Desktop\\MonDayRepository\\2026 8 31\\\u6F14\u7FD2\uFF11\\VendingManchine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FC0CF8D-A49F-4E4B-9CBD-FDBA7F422179}|\u6F14\u7FD2\uFF11.vcxproj|solutionrelative:VendingManchine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,14 +32,14 @@
               "RelativeDocumentMoniker": "VendingManchine.cpp",
               "ToolTip": "C:\\Users\\student\\Desktop\\MonDayRepository\\2026 8 31\\\u6F14\u7FD2\uFF11\\VendingManchine.cpp",
               "RelativeToolTip": "VendingManchine.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAcwCkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-08-31T01:41:01.755Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "VendingManchine.h",
               "DocumentMoniker": "C:\\Users\\student\\Desktop\\MonDayRepository\\2026 8 31\\\u6F14\u7FD2\uFF11\\VendingManchine.h",
               "RelativeDocumentMoniker": "VendingManchine.h",
@@ -52,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\student\\Desktop\\MonDayRepository\\2026 8 31\\\u6F14\u7FD2\uFF11\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
