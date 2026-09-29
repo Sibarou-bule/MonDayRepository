@@ -5,3 +5,6 @@ const int KARD_NUMBER_Y = 4;
 
 //カードの合計枚数
 const int KARD_ALL = 44;
+
+//プレイヤーが持てる枚数上限
+const int MAX_PLAYER_KARD = 3;

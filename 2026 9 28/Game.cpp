@@ -1,5 +1,6 @@
 #include "Game.h"
 #include "constant.h"
+#include"Player.h"
 #include<iostream>
 #include<stdlib.h>
 #include<ctime>
@@ -7,7 +8,18 @@ using namespace std;
 
 void Game::GameLoop()
 {
+
 	Game::Reset();
+
+	Game::DrawCard(PlayerKaerd);
+	Game::DrawCard(EnemyKaerd);
+
+	Player::Player(PlayerKaerd);
+
+	/*while (!GameFinished)
+	{
+		
+	}*/
 }
 
 void Game::Reset()
@@ -30,16 +42,14 @@ void Game::Reset()
 	}
 
 	//ランダムに配置しなおす
-	
+	int KardCount = 0;
 	for (i = 0; i < KARD_NUMBER_Y; i++)
 	{
 		int numbers[11]{ 1,2,3,4,5,6,7,8,9,10,11 };
 		int count = 11;
-		int KardCount = 0;
 
 		for (k = 0; k < KARD_NUMBER_X; k++)
 		{
-			KardCount++;
 			// 残っている候補からランダムに選ぶ
 			int M = rand() % count;
 			KardAfterArray[KardCount] = numbers[M];
@@ -53,8 +63,27 @@ void Game::Reset()
 			// 候補数を1つ減らす
 			count--;
 
+			KardCount++;
 			//cout << KardAfterArray[KardCount] << endl;
 		}
 		//cout << "after\n";
 	}
+}
+
+int  Game::DrawCard(int card[])
+{
+	//2枚ドロー
+	for (int i = 0; i < 2; i++)
+	{
+		//cout << KardAfterArray[DeckNumber] << endl;
+
+		card[i] = KardAfterArray[DeckNumber];
+		KardAfterArray[DeckNumber] = NoKard;
+		//cout << KardAfterArray[DeckNumber] << endl;
+		DeckNumber++;
+
+		//cout << card[i] << endl;
+		
+	}
+	return 0;
 }
