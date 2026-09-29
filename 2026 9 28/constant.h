@@ -8,3 +8,6 @@ const int KARD_ALL = 44;
 
 //プレイヤーが持てる枚数上限
 const int MAX_PLAYER_KARD = 3;
+
+//使った後のカード
+const int NoKard = -1;

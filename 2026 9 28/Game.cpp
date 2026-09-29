@@ -1,6 +1,7 @@
 #include "Game.h"
 #include "constant.h"
 #include"Player.h"
+#include"Enemy.h"
 #include<iostream>
 #include<stdlib.h>
 #include<ctime>
@@ -13,9 +14,42 @@ void Game::GameLoop()
 
 	Game::DrawCard(PlayerKaerd);
 	Game::DrawCard(EnemyKaerd);
+	
+	Player::Player(PlayerKaerd,&DeckNumber,KardAfterArray,&playertotal,&Burst);
+	//cout << DeckNumber << endl;
 
-	Player::Player(PlayerKaerd);
+	cout << "===========================================================\n";
 
+	if (Burst == false)
+	{
+		Burst = false;
+		
+		Enemy::Enemy(EnemyKaerd, &DeckNumber, KardAfterArray, &enemytotal, &Burst,&playertotal);
+
+		if (Burst == true)
+		{
+			cout << "===========================================================\n";
+			cout << "===========================================================\n";
+			cout << "PLAYER Win\n";
+		}
+		else
+		{
+			Game::Jughe(&playertotal, &enemytotal);
+		}
+
+		Burst = false;
+	}
+
+	if (Burst == true)
+	{
+		cout << "===========================================================\n";
+		cout << "===========================================================\n";
+		cout << "ENEMY Win\n";
+	}
+
+	
+
+	//cout << playertotal << endl;
 	/*while (!GameFinished)
 	{
 		
@@ -86,4 +120,26 @@ int  Game::DrawCard(int card[])
 		
 	}
 	return 0;
+}
+
+void Game::Jughe(int* player, int* enemy)
+{
+	if (*player < *enemy)
+	{
+		cout << "===========================================================\n";
+		cout << "===========================================================\n";
+		cout << "ENEMY Win\n";
+	}
+	else if (*player > *enemy)
+	{
+		cout << "===========================================================\n";
+		cout << "===========================================================\n";
+		cout << "PLAYER Win\n";
+	}
+	else
+	{
+		cout << "===========================================================\n";
+		cout << "===========================================================\n";
+		cout << "Draw\n";
+	}
 }

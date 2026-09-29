@@ -4,8 +4,6 @@ class Player
 private:
 	bool CheckInput();
 public:
-	Player(int player[]);
-
-	int total;
+	Player(int* player,int *deskNumver,int*KardAfterArray,int *total,bool *burst);
 };
 

@@ -5,6 +5,7 @@ class Game
 private:
 	void Reset();
 	int DrawCard(int kard[]);
+	void Jughe(int *player,int *enemy);
 
 public:
 	void GameLoop();
@@ -25,7 +26,13 @@ public:
 	//山札の順番用の変数
 	int DeckNumber = 0;
 
-	//使った後のカード
-	int NoKard = -1;
+	//playerの点数
+	int playertotal = 0;
+
+	//enemyの点数
+	int enemytotal = 0;
+
+	//バーストツイッチ
+	bool Burst = false;
 };
 
