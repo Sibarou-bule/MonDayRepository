@@ -17,4 +17,9 @@ Character::Character()
 
 	Player::Player(hp,atk,dfe,age);
 	Enemy::Enemy(hp, atk, dfe, age);
+
+	while (Loop == true)
+	{
+		Player
+	}
 }
