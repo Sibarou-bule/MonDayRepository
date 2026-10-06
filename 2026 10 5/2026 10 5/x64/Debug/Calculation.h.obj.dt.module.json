@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "2026 10 5\\x64\\Debug\\Calculation.obj",
+            "outputs": [
+                "2026 10 5\\x64\\Debug\\Calculation.h.obj.dt.module.json",
+                "2026 10 5\\x64\\Debug\\Calculation.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

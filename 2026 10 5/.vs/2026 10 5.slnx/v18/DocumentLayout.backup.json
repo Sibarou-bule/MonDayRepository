@@ -11,12 +11,36 @@
       "RelativeMoniker": "D:0:0:{FD163E9A-02F9-4A93-BA8B-B3D7A34A4CC8}|2026 10 5.vcxproj|solutionrelative:Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FD163E9A-02F9-4A93-BA8B-B3D7A34A4CC8}|2026 10 5.vcxproj|C:\\Users\\student\\Desktop\\MonDayRepository\\2026 10 5\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FD163E9A-02F9-4A93-BA8B-B3D7A34A4CC8}|2026 10 5.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FD163E9A-02F9-4A93-BA8B-B3D7A34A4CC8}|2026 10 5.vcxproj|C:\\Users\\student\\Desktop\\MonDayRepository\\2026 10 5\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD163E9A-02F9-4A93-BA8B-B3D7A34A4CC8}|2026 10 5.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD163E9A-02F9-4A93-BA8B-B3D7A34A4CC8}|2026 10 5.vcxproj|C:\\Users\\student\\Desktop\\MonDayRepository\\2026 10 5\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD163E9A-02F9-4A93-BA8B-B3D7A34A4CC8}|2026 10 5.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD163E9A-02F9-4A93-BA8B-B3D7A34A4CC8}|2026 10 5.vcxproj|C:\\Users\\student\\Desktop\\MonDayRepository\\2026 10 5\\Calculation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD163E9A-02F9-4A93-BA8B-B3D7A34A4CC8}|2026 10 5.vcxproj|solutionrelative:Calculation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FD163E9A-02F9-4A93-BA8B-B3D7A34A4CC8}|2026 10 5.vcxproj|C:\\Users\\student\\Desktop\\MonDayRepository\\2026 10 5\\Constant.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FD163E9A-02F9-4A93-BA8B-B3D7A34A4CC8}|2026 10 5.vcxproj|solutionrelative:Constant.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD163E9A-02F9-4A93-BA8B-B3D7A34A4CC8}|2026 10 5.vcxproj|C:\\Users\\student\\Desktop\\MonDayRepository\\2026 10 5\\Calculation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD163E9A-02F9-4A93-BA8B-B3D7A34A4CC8}|2026 10 5.vcxproj|solutionrelative:Calculation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD163E9A-02F9-4A93-BA8B-B3D7A34A4CC8}|2026 10 5.vcxproj|C:\\Users\\student\\Desktop\\MonDayRepository\\2026 10 5\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD163E9A-02F9-4A93-BA8B-B3D7A34A4CC8}|2026 10 5.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD163E9A-02F9-4A93-BA8B-B3D7A34A4CC8}|2026 10 5.vcxproj|C:\\Users\\student\\Desktop\\MonDayRepository\\2026 10 5\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD163E9A-02F9-4A93-BA8B-B3D7A34A4CC8}|2026 10 5.vcxproj|solutionrelative:Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD163E9A-02F9-4A93-BA8B-B3D7A34A4CC8}|2026 10 5.vcxproj|C:\\Users\\student\\Desktop\\MonDayRepository\\2026 10 5\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FD163E9A-02F9-4A93-BA8B-B3D7A34A4CC8}|2026 10 5.vcxproj|solutionrelative:Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,32 +50,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 326,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Calculation.cpp",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\MonDayRepository\\2026 10 5\\Calculation.cpp",
+              "RelativeDocumentMoniker": "Calculation.cpp",
+              "ToolTip": "C:\\Users\\student\\Desktop\\MonDayRepository\\2026 10 5\\Calculation.cpp",
+              "RelativeToolTip": "Calculation.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-06T05:21:13.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Calculation.h",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\MonDayRepository\\2026 10 5\\Calculation.h",
+              "RelativeDocumentMoniker": "Calculation.h",
+              "ToolTip": "C:\\Users\\student\\Desktop\\MonDayRepository\\2026 10 5\\Calculation.h",
+              "RelativeToolTip": "Calculation.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-06T05:20:42.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Constant.h",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\MonDayRepository\\2026 10 5\\Constant.h",
+              "RelativeDocumentMoniker": "Constant.h",
+              "ToolTip": "C:\\Users\\student\\Desktop\\MonDayRepository\\2026 10 5\\Constant.h",
+              "RelativeToolTip": "Constant.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-05T03:16:51.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Enemy.cpp",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\MonDayRepository\\2026 10 5\\Enemy.cpp",
+              "RelativeDocumentMoniker": "Enemy.cpp",
+              "ToolTip": "C:\\Users\\student\\Desktop\\MonDayRepository\\2026 10 5\\Enemy.cpp",
+              "RelativeToolTip": "Enemy.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-05T02:58:25.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\MonDayRepository\\2026 10 5\\Player.cpp",
+              "RelativeDocumentMoniker": "Player.cpp",
+              "ToolTip": "C:\\Users\\student\\Desktop\\MonDayRepository\\2026 10 5\\Player.cpp*",
+              "RelativeToolTip": "Player.cpp*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-05T02:58:23.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Enemy.h",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\MonDayRepository\\2026 10 5\\Enemy.h",
+              "RelativeDocumentMoniker": "Enemy.h",
+              "ToolTip": "C:\\Users\\student\\Desktop\\MonDayRepository\\2026 10 5\\Enemy.h",
+              "RelativeToolTip": "Enemy.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-05T02:58:20.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\MonDayRepository\\2026 10 5\\Player.h",
+              "RelativeDocumentMoniker": "Player.h",
+              "ToolTip": "C:\\Users\\student\\Desktop\\MonDayRepository\\2026 10 5\\Player.h*",
+              "RelativeToolTip": "Player.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-10-05T02:58:12.327Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Character.cpp",
               "DocumentMoniker": "C:\\Users\\student\\Desktop\\MonDayRepository\\2026 10 5\\Character.cpp",
               "RelativeDocumentMoniker": "Character.cpp",
-              "ToolTip": "C:\\Users\\student\\Desktop\\MonDayRepository\\2026 10 5\\Character.cpp",
-              "RelativeToolTip": "Character.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\student\\Desktop\\MonDayRepository\\2026 10 5\\Character.cpp*",
+              "RelativeToolTip": "Character.cpp*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-05T02:22:01.817Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Constant.h",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\MonDayRepository\\2026 10 5\\Constant.h",
-              "RelativeDocumentMoniker": "Constant.h",
-              "ToolTip": "C:\\Users\\student\\Desktop\\MonDayRepository\\2026 10 5\\Constant.h",
-              "RelativeToolTip": "Constant.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-10-05T02:19:37.72Z",
               "EditorCaption": ""
             },
             {
@@ -62,20 +164,20 @@
               "RelativeDocumentMoniker": "Character.h",
               "ToolTip": "C:\\Users\\student\\Desktop\\MonDayRepository\\2026 10 5\\Character.h",
               "RelativeToolTip": "Character.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-10-05T01:50:07.923Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\student\\Desktop\\MonDayRepository\\2026 10 5\\Main.cpp",
               "RelativeDocumentMoniker": "Main.cpp",
               "ToolTip": "C:\\Users\\student\\Desktop\\MonDayRepository\\2026 10 5\\Main.cpp",
               "RelativeToolTip": "Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-05T01:48:41.492Z",
               "EditorCaption": ""

@@ -7,6 +7,6 @@ private:
 	int Hp, Atk, Dfe, Age;
 public:
 	Enemy(int hp, int atk, int dfe, int age);
-	bool GameOver();
+	//bool GameOver();
 };
 

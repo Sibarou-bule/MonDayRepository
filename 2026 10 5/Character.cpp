@@ -8,6 +8,7 @@ using namespace std;
 
 Character::Character()
 {
+	Player player;
 	srand((unsigned int)time(NULL));
 	
 	hp = 100;
@@ -15,11 +16,11 @@ Character::Character()
 	dfe = rand() % STATUS;
 	age = rand() % STATUS;
 
-	Player::Player(hp,atk,dfe,age);
+	player.player(hp,atk,dfe,age);
 	Enemy::Enemy(hp, atk, dfe, age);
 
-	while (Loop == true)
-	{
-		Player
-	}
+	
+	//while (Loop == true)
+		player.PlayerTrunn(&Action,&Loop);
+		cout << Action << endl;
 }

@@ -2,11 +2,15 @@
 class Player
 {
 private:
-	int Action = 0;
+	void InputCheck(int *num);
+
+protected:
 
 	int Hp,Atk,Dfe,Age;
+
 public:
-	Player(int hp, int atk, int dfe, int age);
-	bool GameOver();
+	void player(int hp, int atk, int dfe, int age);
+	int PlayerTrunn(int *Action,bool *loop);
+	//bool GameOver();
 };
 

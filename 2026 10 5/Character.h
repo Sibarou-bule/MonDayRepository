@@ -10,6 +10,8 @@ protected:
 	int age;//回避値
 private:
 	bool Loop = true;
+
+	int Action = 0;
 public:
 	Character();
 

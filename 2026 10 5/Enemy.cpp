@@ -1,14 +1,10 @@
 #include "Enemy.h"
 
-Enemy::Enemy(int hp, int atk, int dfe, int age)
+void Enemy::enemy(int hp, int atk, int dfe, int age)
 {
 	Hp = hp;
 	Atk = atk;
 	Dfe = dfe;
 	Age = age;
 }
-
-bool Enemy::GameOver()
-{
-
-}
+//bool Enemy::GameOver()
