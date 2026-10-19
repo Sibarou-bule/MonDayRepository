@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "2026 10 19\\x64\\Debug\\Servant.obj",
+            "outputs": [
+                "2026 10 19\\x64\\Debug\\Servant.cpp.obj.dt.module.json",
+                "2026 10 19\\x64\\Debug\\Servant.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
