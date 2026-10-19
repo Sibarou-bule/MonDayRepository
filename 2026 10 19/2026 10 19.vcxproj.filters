@@ -13,5 +13,45 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Archer">
+      <UniqueIdentifier>{098a1459-1835-4531-9fb7-a50c26021ff5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Rider">
+      <UniqueIdentifier>{97913a88-56f8-4495-885b-15a3234aa2ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Saber">
+      <UniqueIdentifier>{a15f2f8d-bb14-473c-aa11-f6214c8da67f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Servant">
+      <UniqueIdentifier>{f0a39d8c-a69d-40d2-a6bd-d667ea4647b0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Archer.cpp">
+      <Filter>Archer</Filter>
+    </ClCompile>
+    <ClCompile Include="Servant.cpp">
+      <Filter>Servant</Filter>
+    </ClCompile>
+    <ClCompile Include="Saber.cpp">
+      <Filter>Saber</Filter>
+    </ClCompile>
+    <ClCompile Include="Rider.cpp">
+      <Filter>Rider</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Archer.h">
+      <Filter>Archer</Filter>
+    </ClInclude>
+    <ClInclude Include="Servant.h">
+      <Filter>Servant</Filter>
+    </ClInclude>
+    <ClInclude Include="Saber.h">
+      <Filter>Saber</Filter>
+    </ClInclude>
+    <ClInclude Include="Rider.h">
+      <Filter>Rider</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
