@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\student\\desktop\\mondayrepository\\2026 10 19(2)\\madoka.h",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\student\\desktop\\mondayrepository\\2026 10 19(2)\\magicalgirl.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

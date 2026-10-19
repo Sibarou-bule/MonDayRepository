@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Madoka">
+      <UniqueIdentifier>{bebe5e20-c221-43d5-8125-181c5d97a687}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Homura">
+      <UniqueIdentifier>{bfa4f21b-80a6-4050-985d-56f022beb372}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MagicalGirl">
+      <UniqueIdentifier>{5af3c576-7942-44b2-befb-54398ea26bde}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Homura.cpp">
+      <Filter>Homura</Filter>
+    </ClCompile>
+    <ClCompile Include="Madoka.cpp">
+      <Filter>Madoka</Filter>
+    </ClCompile>
+    <ClCompile Include="MagicalGirl.cpp">
+      <Filter>MagicalGirl</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Homura.h">
+      <Filter>Homura</Filter>
+    </ClInclude>
+    <ClInclude Include="Madoka.h">
+      <Filter>Madoka</Filter>
+    </ClInclude>
+    <ClInclude Include="MagicalGirl.h">
+      <Filter>MagicalGirl</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
